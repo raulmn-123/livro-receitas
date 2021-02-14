@@ -2,4 +2,5 @@
 
 Olá ! Bem vindo ao meu livro de receitas :call_me_hand: 
 
-- Strogonoff de Frango
+- Strogonoff de Frango :chicken: 
+- Bolo de Chocolate :birthday:
